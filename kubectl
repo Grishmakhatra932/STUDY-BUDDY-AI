@@ -1,1 +1,2 @@
-/snap/bin/kubectl
+#!/bin/bash
+/usr/local/bin/kubectl "$@"
